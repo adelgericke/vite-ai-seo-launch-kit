@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://example.com/sitemap.xml
+
+# AI crawlers: see https://example.com/llms.txt for a clean, JS-free site summary
+
+Disallow: /internal-preview

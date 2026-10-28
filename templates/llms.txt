@@ -1,0 +1,25 @@
+# Brand
+
+> One-line positioning: who you help and what changes for them.
+
+## About
+- Name, title, credentials (only ones you can verify)
+- Location / online availability, languages
+
+## Offer
+- Programme A: what it includes, price (incl./excl. VAT)
+- Programme B: what it includes, price
+- Free intro call: how to book (link)
+
+## Who it's for
+- Client profile 1
+- Client profile 2
+
+## Contact
+- Website: https://example.com
+- Booking: https://example.com/book
+- Email: hello@example.com
+
+## Key pages
+- [Home](https://example.com/)
+- [Pricing](https://example.com/#pricing)
